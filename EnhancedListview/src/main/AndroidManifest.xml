@@ -1,0 +1,14 @@
+<manifest
+    package="de.timroes.android.listview"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="3"
+    android:versionName="0.1.2">
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="19"/>
+
+    <application>
+    </application>
+
+</manifest>

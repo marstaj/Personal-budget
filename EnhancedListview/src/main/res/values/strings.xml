@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="undo">Zpět</string>
+    <string name="undo_all">Zpět vše</string>
+    <string name="item_deleted">Položka smazána</string>
+    <string name="n_items_deleted">%1$s položek smazáno</string>
+</resources>

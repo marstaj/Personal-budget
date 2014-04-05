@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Avast Personal Budget</string>
+    <string name="textview_value">Částka</string>
+    <string name="textview_kind">Popis</string>
+    <string name="radiobutton_out">Odchozí</string>
+    <string name="radiobutton_in">Příchozí</string>
+    <string name="textview_type">Typ</string>
+    <string name="textview_time">Čas</string>
+    <string name="textview_date">Datum</string>
+    <string name="action_cancel">Zrušit</string>
+    <string name="action_confirm">Uložit</string>
+    <string name="action_new">Nová transkace</string>
+    <string name="action_refresh">Synchronizovat</string>
+    <string name="toast_error_synchronize">Chyba při synchronizaci. Zkontrolujte připojení k internetu zkuste to znovu.</string>
+    <string name="toast_succesfull_changes">Synchronizace úspěšná</string>
+    <string name="toast_transaction_deleted">Transakce smazána</string>
+    <string name="textview_balance_title">Zůstatek:</string>
+    <string name="currency">Kč</string>
+    <string name="toast_form_error" type="id">Chyba formuláře</string>
+
+</resources>
